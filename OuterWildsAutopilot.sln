@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OuterWildsAutopilot", "OuterWildsAutopilot.csproj", "{CCB77055-02D9-4D45-8FBB-25503487CD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB77055-02D9-4D45-8FBB-25503487CD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB77055-02D9-4D45-8FBB-25503487CD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB77055-02D9-4D45-8FBB-25503487CD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB77055-02D9-4D45-8FBB-25503487CD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92ABE524-7D0C-4425-999F-FD5ED03F2B4D}
+	EndGlobalSection
+EndGlobal
